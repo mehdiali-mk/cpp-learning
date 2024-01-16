@@ -4,6 +4,7 @@
 - Programming is a skill that must be learned and practiced.
 - If you get frustrated, take a break and try again a bit later.
 - Once you've finished the challenge, don't stop there, challenge yourself.
+- The more code you write and the more you practice, the more comfortable you'll become with c++ and the better your code will become.
 
 # What we have to learn in C++?
 
