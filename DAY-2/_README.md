@@ -33,3 +33,24 @@ warning: 'yourAge' is used uninitialized...
 - Namespaces.
 - Comments.
 - Basic I/O.
+
+# The main() function.
+
+- Every C++ program must have exactly 1 main() function.
+- Starting point of program execution.
+- Return 0 indicates successful program execution.
+- 2 versions that are both valid.
+
+<pre>
+int main()
+{
+  // code
+  return 0;
+}
+
+int main(int argc, char *argv[])
+{
+  // code
+  return 0;
+}
+</pre>
