@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+#define PI 3.14
+
+int main()
+{
+    int radius;
+
+    cout << "Enter the radius = ";
+    cin >> radius;
+
+    cout << endl
+         << "Area = " << PI * radius * radius << endl;
+
+    cout << "Circumference = " << 2 * PI * radius;
+
+    return 0;
+}

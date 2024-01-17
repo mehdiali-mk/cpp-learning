@@ -24,3 +24,12 @@ int yourAge;
 std::cout << yourAge;
 
 warning: 'yourAge' is used uninitialized...
+
+# The structure of C++ Program.
+
+- Basic Components.
+- Preprocessor Directives.
+- The main Function.
+- Namespaces.
+- Comments.
+- Basic I/O.
