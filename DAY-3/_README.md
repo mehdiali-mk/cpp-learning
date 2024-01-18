@@ -60,3 +60,13 @@ age = 21;
 
 - Size and precision is often compiler-dependent.
   - include <climits>
+
+# The sizeof Operator.
+
+- Determines the size in bytes of a type or variable.
+
+- e.g.
+- sieof(int)
+- sizeof(double)
+- sizeof(some_variable)
+- sizeof some_variable
