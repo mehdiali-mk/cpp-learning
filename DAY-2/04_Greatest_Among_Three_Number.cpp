@@ -1,3 +1,9 @@
+/*
+Aim = Find the greatest number among three numbers.
+Author = Mehdiali (MK).
+Date = 17 / January / 2024 - 03:20 PM.
+*/
+
 #include <iostream>
 
 using namespace std;

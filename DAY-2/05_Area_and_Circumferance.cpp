@@ -1,3 +1,9 @@
+/*
+Aim = Find the area and circumference of a circle.
+Author = Mehdiali (MK).
+Date = 17 / January / 2024 - 03:24 PM.
+*/
+
 #include <iostream>
 
 using namespace std;
