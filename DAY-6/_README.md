@@ -49,3 +49,50 @@ vector <int> testScore (10); // here 10 indicates the size of vector.
 - Elements intialized to zero.
 - Very efficient.
 - Iteration (Looping) is often used to process.
+
+# Accessing vector elements - using array syntax.
+
+- vectorName [element_index];
+- testScore [1];
+
+- e.g.
+<pre>
+    vector <int> testScore {100, 95, 99, 87, 88};
+
+    cout << "1st score at index 0: " << testScore[0] << endl;
+    cout << "2nd score at index 1: " << testScore[1] << endl;
+    cout << "3rd score at index 2: " << testScore[2] << endl;
+    cout << "4th score at index 3: " << testScore[3] << endl;
+    cout << "5th score at index 4: " << testScore[4] << endl;
+</pre>
+
+# Accessing vector elements - using vector syntax.
+
+- vectorName.at(element_index);
+- testScore.at(1);
+
+- e.g.
+<pre>
+    vector <int> testScore {100, 95, 99, 87, 88};
+
+    cout << "1st score at index 0: " << testScore.at(0) << endl;
+    cout << "2nd score at index 1: " << testScore.at(1) << endl;
+    cout << "3rd score at index 2: " << testScore.at(2) << endl;
+    cout << "4th score at index 3: " << testScore.at(3) << endl;
+    cout << "5th score at index 4: " << testScore.at(4) << endl;
+</pre>
+
+# Assigning a value to vector elements - using vector syntax.
+
+- testScore.at(0) = 90;
+
+# Adding elements to a vector.
+
+- vector_name.push_back(element);
+
+e.g.
+vector <int> testScore {100, 95, 99}; // vectore size is 3.
+testScore.push_back(80); // 100, 95, 99, 80.
+testScore.push_back(90); // 100, 95, 99, 80, 90.
+
+- Vector will automatically allocate the required space!
