@@ -1,6 +1,6 @@
 # >>==>> DAY - 15.
 
-# While Loop
+# While Loop.
 
 <pre>
 while(expression)
@@ -11,7 +11,7 @@ while(expression) {
 }
 </pre>
 
-# Do-while Loop
+# Do-while Loop.
 
 <pre>
 do {
