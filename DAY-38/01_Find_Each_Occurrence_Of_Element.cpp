@@ -1,5 +1,5 @@
 /*
- Aim = C Program to Find Occurrences of Each Element of an Array
+ Aim = To Find Occurrences of Each Element of an Array
  Author = Mehdiali (MK).
  Date = 22 / February / 2024 - 05:57 PM.
 */

@@ -1,3 +1,3 @@
-# >>==>> DAY - 38.
+# >>==>> DAY - 39.
 
-# C Program to Find Occurrences of Each Element of an Array.
+# Sum of Each Row and Each Column of a 2-D Array.
