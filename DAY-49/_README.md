@@ -1,4 +1,4 @@
-# >>==>> DAY - 47.
+# >>==>> DAY - 49.
 
 # Star Patterns.
 
