@@ -1,4 +1,4 @@
-# >>==>> DAY - 55.
+# >>==>> DAY - 56.
 
 # Palindromic Patterns.
 
