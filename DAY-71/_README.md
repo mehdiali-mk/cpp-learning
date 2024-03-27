@@ -1,3 +1,3 @@
-# >>==>> DAY - 70.
+# >>==>> DAY - 71.
 
-# Recording Breaking Element.
+# Matrices are equal or not.
