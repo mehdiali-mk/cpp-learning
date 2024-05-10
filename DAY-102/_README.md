@@ -1,3 +1,3 @@
-# >>==>> DAY - 99.
+# >>==>> DAY - 102.
 
-# Stack Operations.
+# Structure
