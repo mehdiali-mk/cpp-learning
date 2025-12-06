@@ -15,8 +15,16 @@ int main()
 
     cout << "Enter the 1st number = ";
     cin >> num1;
+    if(cin.fail()){
+        cout<<"Invalid input! Please enter numbers only.";
+    }
+    return 0;
     cout << "Enter the 2nd number = ";
     cin >> num2;
+    if(cin.fail()){
+        cout<<"Invalid input! Please enter numbers only.";
+    }
+    return 0;
 
     if (num1 > num2)
     {
